@@ -1,0 +1,31 @@
+{
+  "name": "stock-budgeting-app",
+  "version": "1.0.0",
+  "description": "A web application for budgeting and stock tracking.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^0.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "typescript": "^4.9.5"
+  },
+  "keywords": [
+    "budgeting",
+    "stocks",
+    "finance",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
